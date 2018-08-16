@@ -44,6 +44,7 @@ Bundle 'scrooloose/syntastic'
 Plugin 'junegunn/fzf.vim'
 Plugin 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plugin 'tpope/vim-fugitive'
+Plugin 'altercation/vim-colors-solarized'
 
 " nerdtree
  let NERDTreeAutoDeleteBuffer = 1
