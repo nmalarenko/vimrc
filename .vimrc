@@ -48,6 +48,7 @@ Plugin 'altercation/vim-colors-solarized'
 
 " nerdtree
  let NERDTreeAutoDeleteBuffer = 1
+ let NERDTreeShowHidden=1
 " let NERDTreeMapOpenInTab='\r'
 " autocmd BufEnter * lcd %:p:h
  set nocompatible
